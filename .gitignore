@@ -246,3 +246,6 @@ venv.bak/
 .idea/
 .config_secret/
 .config/*
+/.static_root/
+/mysite/static/
+/mysite/media/
